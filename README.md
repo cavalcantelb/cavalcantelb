@@ -1,17 +1,16 @@
-```java
+~~~java
 
 package model;
-
-import java.developer;
 
 public class SobreMim {
     private String nome = "Lucas Cavalcante";
     private String area = "Backend Developer";
-    private String formacao = "Engenheiro";
+    private String graduacao = "Engenharia de Agrimensura";
+    private String posGraduacao = "Mestrado em Meteorologia";
     private String local = "Marechal Deodoro/AL";
 }
 
-```
+~~~
 **SKILLS**
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -44,8 +43,3 @@ public class SobreMim {
 
 ![Gimp Badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Inkscape Badge](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cavalcantelucas/)](https://www.linkedin.com/in/cavalcantelucas/)
-
-![States Badge](https://github-readme-stats.vercel.app/api?username=cavalcantelb&theme=dracula)
-![Top Langs Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelb&theme=blue-green)
