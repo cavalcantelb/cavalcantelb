@@ -47,6 +47,7 @@ public class SobreMim {
 **Spatial software**
 
 ![QGIS Badge](https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
+
 **GROUP**
 
 ![SLACK Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
