@@ -54,5 +54,5 @@ public class SobreMim {
 
 **Workflow Platforms**
 
-![JIRA Badge]([Workflow Platforms](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![JIRA Badge]((https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
