@@ -52,3 +52,7 @@ public class SobreMim {
 
 ![SLACK Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+**Workflow Platforms**
+
+![JIRA Badge]([Workflow Platforms](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
