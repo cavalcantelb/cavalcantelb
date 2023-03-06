@@ -57,3 +57,4 @@ public class SobreMim {
 
 ![JIRA Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+![Stats01 Badge](https://github-readme-stats.vercel.app/api?username=cavalcantelb&theme=dracula)    ![Stats02 Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantelb&theme=dracula)
